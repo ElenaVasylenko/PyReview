@@ -1,0 +1,4 @@
+1.cookbook on ios
+2. add recipe = add ingredients + may add photo + add description
+3. categories of recipes
+4.
