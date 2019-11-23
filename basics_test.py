@@ -1,5 +1,5 @@
 # import re
-
+# import functools
 # l = [[1,2,3]]
 #
 # m = l.copy()
