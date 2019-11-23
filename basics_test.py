@@ -1,14 +1,5 @@
 # import re
-#
-# a = 'abcd'
-# b = 'cd'
-#
-# print(b in a)
-# print(a.__contains__(b))
-# print(a.find(b))
-# print(a.rfind(b))
-#
-#
+
 # l = [[1,2,3]]
 #
 # m = l.copy()
