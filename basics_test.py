@@ -6,8 +6,6 @@
 # print(m)
 # l[0][1] = 'X'
 # print(l)
-# print(m)
-#
 # z = {1:'bill', 2:'age', 3:'22'}
 # v = list(z.values())
 # print(v)
