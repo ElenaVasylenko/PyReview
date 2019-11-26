@@ -42,9 +42,9 @@ numbers = [2, 2, 1]
 #
 # print(list(reversed(range(1,6))))
 
+
 def factorial(n):
     return reduce(lambda x, y: x*y, range(1, n+1), 1)
-
 print(factorial(7))
 
 t = (2, 3, 4)
