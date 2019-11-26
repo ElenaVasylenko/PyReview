@@ -1,22 +1,11 @@
 # import re
-#
-# a = 'abcd'
-# b = 'cd'
-#
-# print(b in a)
-# print(a.__contains__(b))
-# print(a.find(b))
-# print(a.rfind(b))
-#
-#
+# import functools
 # l = [[1,2,3]]
 #
 # m = l.copy()
 # print(m)
 # l[0][1] = 'X'
 # print(l)
-# print(m)
-#
 # z = {1:'bill', 2:'age', 3:'22'}
 # v = list(z.values())
 # print(v)
